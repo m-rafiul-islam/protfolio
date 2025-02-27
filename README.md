@@ -14,7 +14,16 @@
       The project automates data collection for insights into real estate, academic job listings, customer reviews, and online book inventories.
       <a href="your_app_link_here">Link</a></p>
     </td>
-  </tr>
+  </tr> 
+    <tr>     
+    <td>
+      <img src="image.png" alt="Web Scraping Project Image" width="250">
+    </td> 
+    <td> 
+      <h3><a href ="paste_the_link_here">Art Emotions</a> </h3> 
+    </td>
+  </tr> 
+  
 </table>
 
 
