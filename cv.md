@@ -10,7 +10,7 @@ Ph.D. in Applied Mathematics
 <table> 
   <tr>
     <td> <img scr = 'sample_image.png' alt = "Web Scraping Imgage" width = "150" > </td> 
-    <td> project description</td>
+    <td> In this project, I used BeautifulSoup and Selenium to scrape data from multiple websites, including Books to Scrape and Mathjobs. <a href = "https://github.com/m-rafiul-islam/webscraping"> Link </a> </td>
   </tr> 
 
   <tr>
