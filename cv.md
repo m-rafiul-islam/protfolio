@@ -9,7 +9,8 @@ Ph.D. in Applied Mathematics
 <h1> Projects</h1>  
 <table> 
   <tr>
-    <td> project image </td> <td> project description</td>
+    <td> <img scr = 'sample_image.png' alt = "Web Scraping Imgage" width = "150" > </td> 
+    <td> project description</td>
   </tr> 
 
   <tr>
