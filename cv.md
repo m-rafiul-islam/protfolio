@@ -18,7 +18,8 @@ Ph.D. in Applied Mathematics
   
 </table>
 
-
+# Certificate 
+Google Foundation of Data Science 
 
 
 
